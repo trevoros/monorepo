@@ -3,7 +3,8 @@
   "repository": "git@github.com:trevoros/react-components.git",
   "version": "0.0.2",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
-  "gitHead": "a058f929eff67308fd0a399bb8446a486e8ee941"
+  "gitHead": "8b336a5bb01659ec14e69ebb5e117fe284854605"
 }
