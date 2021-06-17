@@ -4,5 +4,6 @@
   "version": "0.0.1",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  }
+  },
+  "gitHead": "a058f929eff67308fd0a399bb8446a486e8ee941"
 }
