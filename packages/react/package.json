@@ -1,10 +1,10 @@
 {
-  "name": "@mgy/react-components",
+  "name": "mgy_react-components",
   "repository": "git@github.com:trevoros/react-components.git",
   "version": "0.0.3",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
-  "gitHead": "8b336a5bb01659ec14e69ebb5e117fe284854605"
+  "gitHead": "fdb0d7db756445be86711672f9f4af9f8759d13d"
 }
