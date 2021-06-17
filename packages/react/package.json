@@ -1,7 +1,7 @@
 {
   "name": "@mgy/react-components",
   "repository": "git@github.com:trevoros/react-components.git",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
