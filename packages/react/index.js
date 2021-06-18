@@ -1,1 +1,1 @@
-module.exports = 'react28';
+module.exports = 'react29';
