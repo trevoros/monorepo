@@ -3,6 +3,140 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.9](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.8...mgy_react-components@0.4.9) (2021-06-18)
+
+
+### Bug Fixes
+
+* release ([c725120](https://github.com/trevoros/react-components/commit/c7251207640471ce0be6ceeef5d988c2904ce8be))
+
+
+
+
+
+## 0.4.8 (2021-06-18)
+
+**Note:** Version bump only for package mgy_react-components
+
+
+
+
+
+## 0.4.7 (2021-06-18)
+
+**Note:** Version bump only for package mgy_react-components
+
+
+
+
+
+## 0.4.6 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([2334d3d](https://github.com/trevoros/react-components/commit/2334d3db6df59ca8254d4ab20b00704fa95b88aa))
+
+
+
+
+
+## [0.4.5](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.4...mgy_react-components@0.4.5) (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([807b476](https://github.com/trevoros/react-components/commit/807b476428dc4bf0a18907b1cdf729a6a0e6727e))
+
+
+
+
+
+## [0.4.4](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.3...mgy_react-components@0.4.4) (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([ab1beca](https://github.com/trevoros/react-components/commit/ab1becac49b4c764576d43e2de2c7e775ff261ec))
+
+
+
+
+
+## 0.4.3 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([1e9878c](https://github.com/trevoros/react-components/commit/1e9878cde409dc6fe9d0a3e42394d5a56d733f8c))
+
+
+
+
+
+## 0.4.2 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([7169f60](https://github.com/trevoros/react-components/commit/7169f60f6498117c256ef0dfe70989cbd3391c27))
+
+
+
+
+
+## 0.4.1 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([342da89](https://github.com/trevoros/react-components/commit/342da89a678c3d9561733fe2d4a2831c18ce86a0))
+
+
+
+
+
+# 0.4.0 (2021-06-18)
+
+
+### Features
+
+* dgdgd ([8351c6d](https://github.com/trevoros/react-components/commit/8351c6d8f5454f7e0fe70a51ba4ef6cd93620514))
+
+
+
+
+
+## 0.3.8 (2021-06-18)
+
+
+### Bug Fixes
+
+* dhdhdj ([a9e33d4](https://github.com/trevoros/react-components/commit/a9e33d4782821190fcdbeac33d5b11fe526ac4a8))
+
+
+
+
+
+## 0.3.7 (2021-06-18)
+
+
+### Bug Fixes
+
+* dfff ([2999903](https://github.com/trevoros/react-components/commit/299990304d22f22159d84b7516c373d93bf21a91))
+
+
+
+
+
+## 0.3.6 (2021-06-18)
+
+**Note:** Version bump only for package mgy_react-components
+
+
+
+
+
 ## 0.3.5 (2021-06-18)
 
 
