@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.3.8 (2021-06-18)
+
+
+### Bug Fixes
+
+* dhdhdj ([a9e33d4](https://github.com/trevoros/react-components/commit/a9e33d4782821190fcdbeac33d5b11fe526ac4a8))
+
+
+
+
+
 ## 0.3.7 (2021-06-18)
 
 
