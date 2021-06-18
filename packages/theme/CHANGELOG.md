@@ -8,6 +8,18 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ### Features
 
+* typo in message ([9f44cea](https://github.com/trevoros/theme/commit/9f44ceaf233736264d78b60b968a5e3244980438))
+* typo in message ([775ea4e](https://github.com/trevoros/theme/commit/775ea4eb7e3a05fb206b88f6238184bf89aad3eb))
+
+
+
+
+
+# [0.3.0](https://github.com/trevoros/theme/compare/mgy_theme@0.2.0...mgy_theme@0.3.0) (2021-06-18)
+
+
+### Features
+
 * typo in message ([775ea4e](https://github.com/trevoros/theme/commit/775ea4eb7e3a05fb206b88f6238184bf89aad3eb))
 
 
