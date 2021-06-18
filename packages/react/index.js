@@ -1,1 +1,1 @@
-module.exports = 'react1';
+module.exports = 'react2';
