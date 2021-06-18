@@ -1,1 +1,1 @@
-module.exports = 'react9';
+module.exports = 'react10';
