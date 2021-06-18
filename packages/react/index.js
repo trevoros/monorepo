@@ -1,1 +1,1 @@
-module.exports = 'react6';
+module.exports = 'react8';
