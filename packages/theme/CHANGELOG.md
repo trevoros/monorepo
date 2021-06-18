@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.5.1 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([342da89](https://github.com/trevoros/theme/commit/342da89a678c3d9561733fe2d4a2831c18ce86a0))
+
+
+
+
+
 # 0.5.0 (2021-06-18)
 
 
