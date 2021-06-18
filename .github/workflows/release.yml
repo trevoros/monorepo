@@ -23,9 +23,14 @@ jobs:
               ${{ runner.OS }}-node-
               ${{ runner.OS }}-
       - run: npm ci
+      - name: Configure Git User
+        run: |
+          git config --global user.email "rosmel.alvarez@gmail.com"
+          git config --global user.name "trevoros"
       - name: Perform Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         run: |
+          echo //registry.npmjs.org/:_authToken=${NPM_TOKEN} > .npmrc
           npx lerna publish --yes
