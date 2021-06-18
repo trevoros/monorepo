@@ -1,1 +1,1 @@
-module.exports = 'react15';
+module.exports = 'react16';
