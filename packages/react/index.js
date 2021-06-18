@@ -1,1 +1,1 @@
-module.exports = 'react5';
+module.exports = 'react6';
