@@ -2,6 +2,12 @@
 {
   "version": "independent",
   "npmClient": "npm",
+  "ignoreChanges": [ "**/CHANGELOG.md",
+    "**/node_modules/**",
+    "**/package.json",
+    "**/lerna.json",
+    "**/*.md",
+    "**/perf/**"],
   "command": {
     "publish": {
       "ignoreChanges": [ "**/CHANGELOG.md",
