@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.4.3 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([1e9878c](https://github.com/trevoros/react-components/commit/1e9878cde409dc6fe9d0a3e42394d5a56d733f8c))
+
+
+
+
+
 ## 0.4.2 (2021-06-18)
 
 
