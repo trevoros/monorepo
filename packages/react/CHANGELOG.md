@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.12](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.11...mgy_react-components@0.4.12) (2021-06-18)
+
+
+### Bug Fixes
+
+* test depend ([da1835d](https://github.com/trevoros/react-components/commit/da1835d6f8df272be491cbf439bc5e9c204607b0))
+
+
+
+
+
 ## [0.4.11](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.10...mgy_react-components@0.4.11) (2021-06-18)
 
 
