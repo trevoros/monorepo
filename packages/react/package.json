@@ -6,5 +6,8 @@
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
+  "dependencies": {
+    "mgy_theme": "^0.5.4"
+  },
   "gitHead": "05a58d14d582002a10cd95bd4662ce13faa2eab6"
 }
