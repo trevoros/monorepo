@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.4.6 (2021-06-18)
+
+
+### Bug Fixes
+
+* new pre ([2334d3d](https://github.com/trevoros/react-components/commit/2334d3db6df59ca8254d4ab20b00704fa95b88aa))
+
+
+
+
+
 ## [0.4.5](https://github.com/trevoros/react-components/compare/mgy_react-components@0.4.4...mgy_react-components@0.4.5) (2021-06-18)
 
 
