@@ -1,1 +1,1 @@
-module.exports = 'theme2';
+module.exports = 'theme3';
