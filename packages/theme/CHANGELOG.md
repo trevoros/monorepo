@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.8](https://github.com/trevoros/theme/compare/mgy_theme@0.5.7...mgy_theme@0.5.8) (2021-06-18)
+
+
+### Bug Fixes
+
+* 3eee ([f98c39e](https://github.com/trevoros/theme/commit/f98c39ebd81d184df3badd0ffc4e4d8c52605899))
+* test again ([a5c0846](https://github.com/trevoros/theme/commit/a5c084664d6cd52f8eb3b94f268481922bc678ca))
+* themess ([55e1b71](https://github.com/trevoros/theme/commit/55e1b712c17f8e1e4fd618b5b008ac094cd6e628))
+
+
+
+
+
 ## 0.5.7 (2021-06-18)
 
 **Note:** Version bump only for package mgy_theme
