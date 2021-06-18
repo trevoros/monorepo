@@ -1,7 +1,7 @@
 {
   "name": "mgy_theme",
   "repository": "git@github.com:trevoros/theme.git",
-  "version": "0.4.7",
+  "version": "0.5.0",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"

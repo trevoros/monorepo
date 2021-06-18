@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.4.0 (2021-06-18)
+
+
+### Features
+
+* dgdgd ([8351c6d](https://github.com/trevoros/react-components/commit/8351c6d8f5454f7e0fe70a51ba4ef6cd93620514))
+
+
+
+
+
 ## 0.3.8 (2021-06-18)
 
 
