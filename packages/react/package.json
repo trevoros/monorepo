@@ -1,7 +1,7 @@
 {
   "name": "mgy_react-components",
   "repository": "git@github.com:trevoros/react-components.git",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"

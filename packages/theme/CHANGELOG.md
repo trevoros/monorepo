@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.4.2 (2021-06-18)
+
+
+### Bug Fixes
+
+* testing ga ([17ae798](https://github.com/trevoros/theme/commit/17ae798bb50371c7c0721c605f326526227315c7))
+
+
+
+
+
 ## 0.4.1 (2021-06-18)
 
 **Note:** Version bump only for package mgy_theme
