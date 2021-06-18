@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/trevoros/theme/compare/mgy_theme@0.3.0...mgy_theme@0.4.0) (2021-06-18)
+
+
+### Features
+
+* typo in message ([497b2bd](https://github.com/trevoros/theme/commit/497b2bd9e968515c828a1110a0729d70dffdf88d))
+
+
+
+
+
 # [0.3.0](https://github.com/trevoros/theme/compare/mgy_theme@0.2.0...mgy_theme@0.3.0) (2021-06-18)
 
 
