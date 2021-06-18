@@ -5,6 +5,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 0.4.6 (2021-06-18)
 
+
+### Bug Fixes
+
+* dfff ([2999903](https://github.com/trevoros/theme/commit/299990304d22f22159d84b7516c373d93bf21a91))
+
+
+
+
+
+## 0.4.6 (2021-06-18)
+
 **Note:** Version bump only for package mgy_theme
 
 
