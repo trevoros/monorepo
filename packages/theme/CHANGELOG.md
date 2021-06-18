@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.9](https://github.com/trevoros/theme/compare/mgy_theme@0.5.8...mgy_theme@0.5.9) (2021-06-18)
+
+
+### Bug Fixes
+
+* test depend ([f78e3c3](https://github.com/trevoros/theme/commit/f78e3c3ac20d7772f670f27a381363fb5e76e0cd))
+* testing dependicies ([5915971](https://github.com/trevoros/theme/commit/5915971845cabb11584eacd86e71dc99d49f2871))
+
+
+
+
+
 ## [0.5.8](https://github.com/trevoros/theme/compare/mgy_theme@0.5.7...mgy_theme@0.5.8) (2021-06-18)
 
 
