@@ -1,1 +1,1 @@
-module.exports = 'react81';
+module.exports = 'react8';
