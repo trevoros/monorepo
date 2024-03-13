@@ -1,3 +1,3 @@
-// Testing npm publishing with env 1
+// Testing npm publishing with env 
 module.exports = 'theme8';
 
