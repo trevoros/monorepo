@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.5.10 (2024-03-13)
+
+**Note:** Version bump only for package mgy_theme
+
+
+
+
+
 ## [0.5.9](https://github.com/trevoros/theme/compare/mgy_theme@0.5.8...mgy_theme@0.5.9) (2021-06-18)
 
 

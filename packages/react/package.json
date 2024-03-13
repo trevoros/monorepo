@@ -1,13 +1,13 @@
 {
   "name": "mgy_react-components",
   "repository": "git@github.com:trevoros/react-components.git",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "dependencies": {
-    "mgy_theme": "^0.5.9"
+    "mgy_theme": "^0.5.10"
   },
   "gitHead": "05a58d14d582002a10cd95bd4662ce13faa2eab6"
 }
