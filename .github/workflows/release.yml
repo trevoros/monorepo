@@ -8,7 +8,17 @@ on:
     branches: [ main ]
 
 jobs:
-  test:
+  wait-for-approval:
+    runs-on: ubuntu-latest
+    environment: production # This should match the environment you created
+    steps:
+      - name: Wait for approval
+        uses: actions/wait-for-check@v1
+        with:
+          checkName: "Approval" # This is a placeholder; no actual action is needed here
+
+  publish-to-npm:
+    needs: wait-for-approval 
     runs-on: ubuntu-latest
     env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
