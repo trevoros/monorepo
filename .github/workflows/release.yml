@@ -9,7 +9,7 @@ on:
 
 jobs:
   publish-to-npm:
-    environment: production 
+    environment: prod 
     runs-on: ubuntu-latest
     env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
