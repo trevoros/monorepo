@@ -15,6 +15,10 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     steps:
+      - name: Print Secret Variable
+        run: echo "My secret is ${{ secrets.MY_SECRET }}"
+        env:
+          MY_SECRET: ${{ secrets.MY_SECRET }}
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
